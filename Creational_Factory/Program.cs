@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 
-using Creational_Factory.Concrete;
 using Creational_Factory.Interfaces;
 
 namespace Creational_Factory
